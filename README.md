@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ifeoluwa Pelumi Olushola (@iamifeolushola).
-- 👀 I’m interested in FrontEnd Web Development.
-- 🌱 I’m currently learning how to design solutions to problems (with bash, c, python, javascript, css, php, MySQL, HTML).
-- 💞️ I’m looking to collaborate on projects that solve many of the problems holding back the human mind & abilities.
+- 👀 I’m interested in FrontEnd Web Development and Community Management.
+- 🌱 I’m currently learning to design solutions to problems (with bash, c, python, javascript, CSS, PHP, MySQL, Solidity, and HTML).
+- 💞️ I’m looking to collaborate on projects that solve many problems holding back the human mind & abilities to live their best lives. Bullish on blockchain!
 - 📫 You can reach me on Twitter (@iamifeolushola) or WhatsApp (+2348139395446).
 
 <!---
